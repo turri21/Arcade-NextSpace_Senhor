@@ -1,4 +1,8 @@
+-=(TheNextSpace_Senhor notes)=-
 
+Tested: Working Video 720p, 1080p & Sound.
+
+___
 # SNK68000 The Next Space FPGA Implementation
 
 FPGA compatible core of SNK's The Next Space (A8004 based) arcade hardware for [**MiSTerFPGA**](https://github.com/MiSTer-devel/Main_MiSTer/wiki) written by [**Darren Olafson**](https://twitter.com/Darren__O) and verified against and authentic The Next Space (A8004-1) PCB purchased by [**atrac17**](https://github.com/atrac17).
